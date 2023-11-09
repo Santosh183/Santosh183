@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Kadam
 - 👀 I’m interested in Front end development.
 - 🌱 I’m currently learning Data structure and aglorithm.
-- 💞️ I’m looking to collaborate on Javascript, Angular, React, HTML5 and CSS3
+- 💞️ I’m looking to collaborate on Javascript, Angular, React, Vue, HTML5 and CSS3
 - 📫 You can reach me on my mail : skadam183@gmail.com
 
 <!---
